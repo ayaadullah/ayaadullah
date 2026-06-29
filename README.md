@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm an **AI ** at **SZABIST Islamabad** obsessed with building software that solves real problems through cutting-edge AI and modern web technologies. 
+I'm an **AI** at **SZABIST Islamabad** obsessed with building software that solves real problems through cutting-edge AI and modern web technologies. 
 
 <div align="center">
   
