@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-I'm an **AI & Computer Science student** at **SZABIST Islamabad** obsessed with building software that solves real problems through cutting-edge AI and modern web technologies. Co-founder at **DEVORA Solutions**, focused on creating impactful tech products.
+I'm an **AI ** at **SZABIST Islamabad** obsessed with building software that solves real problems through cutting-edge AI and modern web technologies. 
 
 <div align="center">
   
