@@ -1,138 +1,149 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm **Ayaad Ullah Baig**
+<div align="center">
 
-### AI Developer • Software Engineer • Building intelligent products
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> Ayaad Ullah Baig
 
-> **"No words. Just work."**
-
-<p align="left">
-I'm an Artificial Intelligence student at <b>SZABIST Islamabad</b> passionate about building software that solves real-world problems through AI and modern web technologies.
-</p>
+### 🤖 AI Developer · 💻 Software Engineer · 🚀 Building Intelligent Products
 
 ---
 
-# 🚀 What I'm Building
+<p align="center">
+  <em>Turning ideas into scalable, intelligent software solutions</em><br/>
+  <strong>"No words. Just work."</strong>
+</p>
 
-* 🤖 Machine Learning Applications
-* 🧠 AI Automation Tools
-* 🌐 Modern Full-Stack Web Applications
-* ⚡ Fast & Responsive User Interfaces
-* 💻 Clean and Scalable Software
+</div>
 
 ---
 
-# 🧠 Tech Stack
+## 🎯 About Me
 
-## Languages
+I'm an **AI & Computer Science student** at **SZABIST Islamabad** obsessed with building software that solves real problems through cutting-edge AI and modern web technologies. Co-founder at **DEVORA Solutions**, focused on creating impactful tech products.
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js" />
-</p>
+<div align="center">
+  
+| 🧠 AI/ML | 🌐 Full-Stack | ⚡ Performance | 🏗️ Scalability |
+|:---:|:---:|:---:|:---:|
+| Deep Learning | React + Node.js | Optimization | Architecture |
 
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-## AI & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-* Machine Learning
-* Deep Learning
-* Data Analysis
-* Prompt Engineering
-* AI Agents
+</div>
 
 ---
 
-# 🛠 Tools
+## 🛠️ Tech Arsenal
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
-</p>
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,javascript" alt="Languages" />
 
-Also experienced with
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" alt="Frontend" />
 
-* Google Colab
-* Claude AI
-* ChatGPT
-* ElevenLabs
-* Zapier
-* Adobe Photoshop
-* Adobe Illustrator
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" alt="Backend" />
+
+### AI & ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI/ML" />
+
+- Machine Learning & Deep Learning
+- Prompt Engineering & AI Agents
+- Data Analysis & Visualization
+- Computer Vision & NLP
+
+### Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" alt="Tools" />
+
+**Also proficient with:** Google Colab · Claude AI · ChatGPT · ElevenLabs · Zapier · Adobe Suite
 
 ---
 
-# 📌 Current Focus
+## 🚀 What I'm Working On
 
-```text
-✓ Building AI Projects
-✓ Learning Advanced Machine Learning
-✓ Data Structures & Algorithms
-✓ Open Source Contributions
-✓ Full Stack Development
+<table>
+  <tr>
+    <td>🤖 <strong>AI Projects</strong></td>
+    <td>Building intelligent automation & ML applications</td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>Full-Stack Development</strong></td>
+    <td>Modern web apps with React, Node.js, and databases</td>
+  </tr>
+  <tr>
+    <td>💼 <strong>DEVORA Solutions</strong></td>
+    <td>B2B software solutions for small businesses</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>Advanced ML</strong></td>
+    <td>Deep learning, data structures, algorithms</td>
+  </tr>
+  <tr>
+    <td>📚 <strong>Open Source</strong></td>
+    <td>Contributing high-quality, reusable projects</td>
+  </tr>
+</table>
+
+---
+
+## 📈 2026 Roadmap
+
+```
+✨ Production-level AI applications
+🚀 Open-source contributions at scale
+💼 Secure AI/SWE internship
+⭐ Launch portfolio projects
+🎓 Advanced degree preparation
 ```
 
 ---
 
-# 🎯 Goals for 2026
+## 📊 GitHub Analytics
 
-* Build production-level AI applications
-* Contribute to Open Source
-* Land an AI Software Engineering Internship
-* Publish high-quality GitHub projects
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ayaadullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaadullah&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaadullah&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Let's Connect
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white)](mailto:ayaadullahbaig69@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaadullah)
+[![GitHub](https://img.shields.io/badge/GitHub-1D1D1D?style=flat-square&logo=github&logoColor=white)](https://github.com/ayaadullah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9F6EED?style=flat-square&logo=rocket&logoColor=white)](https://portfolio.com)
 
 </p>
 
 ---
 
-# 🌐 Connect
+## 💡 Philosophy
 
-📧 **Email:** [ayaadullahbaig69@gmail.com](mailto:ayaadullahbaig69@gmail.com)
+<div align="center">
 
-💼 LinkedIn
-
-🌍 Portfolio *(Coming Soon)*
+> **Build** ambitious projects.
+>
+> **Learn** deeply from every challenge.
+>
+> **Improve** continuously.
+>
+> **Repeat** relentlessly.
 
 ---
 
-# 💡 Philosophy
+<p>
+  <em>Always shipping. Always learning. Always improving.</em>
+</p>
 
-> Build.
->
-> Learn.
->
-> Improve.
->
-> Repeat.
+⭐ **Thanks for visiting!** Feel free to explore my projects and reach out.
+
+</div>
 
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"No words. Just work."*
-
+  <img src="https://komarev.com/ghpvc/?username=ayaadullah&style=flat-square&color=purple" alt="Profile Views" />
 </p>
