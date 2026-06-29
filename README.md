@@ -8,7 +8,6 @@
 
 <p align="center">
   <em>Turning ideas into scalable, intelligent software solutions</em><br/>
-  <strong>"No words. Just work."</strong>
 </p>
 
 </div>
